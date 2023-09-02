@@ -1,0 +1,9 @@
+$primary-color: #08090B;
+
+header{
+    background-color: $primary-color;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
